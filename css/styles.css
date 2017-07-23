@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Slabo+27px');
 
 h1, h2, h3 {
-    font-family: 'Motserrat', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     color: #3c250a;
 }
 
@@ -16,7 +16,7 @@ p, li {
 }
 
 body {
-    background: url('../images/abstract-mosaic-background.png') no-repeat center center fixed;
+    background: url('../images/SeagullsJonesBeachedit1.jpg') no-repeat center center fixed;
     background-size: cover;
     }
 
